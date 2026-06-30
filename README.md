@@ -1,2 +1,41 @@
-# 0e801c82-wine-brewing-spirits-api-cl
-Tired of switching between VS Code and Postman just to test your wine or brewing API endpoints? Our extension keeps every request, response, and environment variable inside your editor—so you can focus on the perfect brew.  This extension eliminates context-switching by turning VS Code into a full-featured API client tailored for wine, brewing, and
+# Wine, Brewing & Spirits API Client and Request Builder VS Code Extension
+
+> Vscode Extension for Wine Brewing
+
+Tired of switching between VS Code and Postman just to test your wine or brewing API endpoints? Our extension keeps every request, response, and environment variable inside your editor—so you can focus on the perfect brew.
+
+This extension eliminates context-switching by turning VS Code into a full-featured API client tailored for wine, brewing...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | ✅ | ✅ |
+| Basic snippets | ✅ | ✅ |
+| Standard themes | ✅ | ✅ |
+| AI-powered completions | ❌ | ✅ |
+| Advanced refactoring | ❌ | ✅ |
+| Team sync | ❌ | ✅ |
+| Custom keybindings | ❌ | ✅ |
+| Priority bug fixes | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/dRm8wPaDde2Me006fycZu3o)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
